@@ -1,0 +1,21 @@
+/* Adjust the font size of the table */
+#example1 {
+    font-size: 11px; /* Adjust this value as needed */
+}
+
+/* Adjust the font size of the table headers */
+#example1 thead th {
+    font-size: 11px; /* Adjust this value as needed */
+    white-space: nowrap;
+}
+
+/* Adjust the font size of the table data */
+#example1 tbody td {
+    font-size: 11px; /* Adjust this value as needed */
+}
+#example1 td, #example1 th {
+    padding: 5.5px; /* Adjust padding */
+    line-height: 1.5; /* Adjust line height */
+    white-space: nowrap;
+    text-align: center;
+}
